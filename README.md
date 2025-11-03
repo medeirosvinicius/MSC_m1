@@ -18,7 +18,6 @@ As pastas estão organizadas na ordem:
 7. Simulação Contrafactual III com População Exposta às Ciclovias: Abordagem por Categorias/Classe de Individuo (Gênero/Raça/Idade/Condição Socioeconômica/Nível de Instrução) c/ Política de Equidade Interseccional  
 8. Testagem e Comparação do Modelo com Aprendizagem de Máquina via Algoritmo Floresta Aleatória (Random Forest)  
 9. Dados Geográficos da CET analisados  
-10. Dados Geográficos dos Participantes do ISA (2015-2020)
 
 **Observação:** Nos scripts constam somente os resultados plotados em gráficos; outros dados ou fontes não serão possíveis de acessar via **Lei Geral de Proteção de Dados (LGPD)**.
 
